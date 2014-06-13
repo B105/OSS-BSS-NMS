@@ -1,0 +1,69 @@
+Link:	http://www.opennms.com/commercial-licensing/
+  State: haven't watched yet
+
+Link:	http://www.zenoss.com/solution/awareness
+  State: Price requested
+
+
+Link: 	http://www.spiceworks.com/app/
+	Info:	http://www.spiceworks.com/app/
+			API:	http://community.spiceworks.com/help/Spiceworks_Plugin_API
+  Pluses: Free. Отличное community. Inventory, Help Desk, Встроенный магазин.
+  	Можно использовать как модульное решение для Inventory, так как присутствует вменяемый API.
+  Minuses:	Монетезация через рекламу и встроенный магазин.
+
+
+Link:	http://www.logicmonitor.com/tour/
+	Info:	http://www.logicmonitor.com/logicmonitor-trialoverview-video/?mkt_tok=3RkMMJWWfF9wsRoku6rOZKXonjHpfsX56eooW6KylMI%2F0ER3fOvrPUfGjI4ASMpgI%2BSLDwEYGJlv6SgFQrHNMaJ13bgIWRY%3D
+	Pluses:
+	Minuses:
+	Review:
+	State:
+
+Link:	http://pandorafms.com/Community/screenshots/en
+	Info:	http://network-management.findthebest.com/l/106/Pandora-FMS
+	Pluses: Платная поддержка
+	Minuses: Хотят денег за поддержку
+	Review:
+	State:
+
+Link:	http://www.manageengine.com/products/device-expert/features.html
+	Info:	http://netsas.com.au/wp-content/uploads/screenshots/Performance_Monitoring_Dashboard.htm
+	Pluses:
+	Minuses:
+	Review:
+	State:	Рассматриваем ли мы такую ценовую вилку (для 5000 девайсов?), стоит ли тестировать этот софт далее?
+	Ответ на запрос цен:
+			ManageEngine Device Expert 
+		86015.4N2 	Single Installation License fee for 5000 Devices Pack 	5.5 	USD 20995
+		86015.4M2 	Annual Maintenance and Support fee for 5000 Devices Pack 	5.5 	USD 4199
+
+
+	
+Link:	http://netsas.com.au/home/
+	Info:	http://netsas.com.au/screenshots/
+	Pluses:
+	Minuses:
+	Review:
+	State:
+
+
+
+Link:	http://www.whatsupgold.com/
+	Info:	
+	Pluses:
+	Minuses:
+	Review:
+	State:
+
+Need to watch:
+GroundWork
+Hyperic
+Nagios
+Enigma NMS Network Management Software
+
+
+
+
+
+Compare Network Management Software:	http://network-management.findthebest.com/
