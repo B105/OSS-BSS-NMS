@@ -8,11 +8,12 @@ Link: 	http://www.spiceworks.com/app/
 Link:	http://www.logicmonitor.com/tour/
 	Info:	http://www.logicmonitor.com/logicmonitor-trialoverview-video/?mkt_tok=3RkMMJWWfF9wsRoku6rOZKXonjHpfsX56eooW6KylMI%2F0ER3fOvrPUfGjI4ASMpgI%2BSLDwEYGJlv6SgFQrHNMaJ13bgIWRY%3D
 			http://systems-management.findthebest.com/l/50/LogicMonitor-Hosted-Monitoring-Service
-	Price: http://www.logicmonitor.com/pricing/
-	Pluses: Cross-platform(Java)
-	Minuses: SaaS тип
-	State: Жду их презентации, обещали в течении суток.
-	Review:
+			https://www.youtube.com/watch?v=Xz97xA1JB8M
+	Price: http://www.logicmonitor.com/pricing/ 
+	Pluses: Cross-platform collector(Java). Варианты поддержки 24/7. SaaS - за поддержку работоспособности отвечают сами.
+	Minuses: SaaS тип с установкой одного или нескольких коллекторов внутри нашей сети.
+	State: Жду их презентации, обещали в течении суток. Договорились на понедельник.
+	Review:	Хотят от 4$ до 19$ за девайс в месяц. Функционал отличный но нужно больше золота.
 
 Link:	http://pandorafms.com/Community/screenshots/en
 	Info:	http://network-management.findthebest.com/l/106/Pandora-FMS
@@ -22,7 +23,8 @@ Link:	http://pandorafms.com/Community/screenshots/en
 	Review:	
 
 Link:	http://www.manageengine.com/products/device-expert/features.html
-	Info:	http://netsas.com.au/wp-content/uploads/screenshots/Performance_Monitoring_Dashboard.htm
+	Info:	
+	Price:	https://store.manageengine.com/device-expert/index.html?quickmenu 
 	Pluses:
 	Minuses:
 	State:	Рассматриваем ли мы такую ценовую вилку (для 5000 девайсов?), стоит ли тестировать этот софт далее?
@@ -33,14 +35,15 @@ Link:	http://www.manageengine.com/products/device-expert/features.html
 	Review:
 	
 Link:	http://www.zenoss.com/solution/awareness
-	Info:	
-	Pluses:
-	Minuses:
-  	State: Waiting: Price requested
-	Review:
+	Info:
+	Price: После долгой переписки с Sales Department выяснилось что продать корпоративную версию в Россию они могут только если компания является Cisco Partner'ом. В противном случае они предлагают пользоваться Community релизом. Плюсы в платном Enterprise решении в том, что они предлагают в поддержку сертифицированных специалистов по внедрению и поддержке.
+	Pluses: Бесплатно: AsIs - трахаемся сами.
+	Minuses: За один присест мне не удалось даже понять как добавить Cisco'вскую MIB.
+  	State: Обзор завершён.
+	Review: Решение комплексное, новороченное, сложное. Но присутствует документация и курсы по работе с программой. 
 
 Link:	http://netsas.com.au/home/
-	Info:	http://netsas.com.au/screenshots/
+	Info:	Demo:	http://netsas.com.au/screenshots/
 	Pluses:
 	Minuses:
 	State: haven't watched yet
@@ -48,13 +51,14 @@ Link:	http://netsas.com.au/home/
 
 Link:	http://www.whatsupgold.com/
 	Info:	
+	Prices:	http://www.whatsupgold.com/online-shop/global/index.aspx
+			За каждый функционал хотят больше 5000 евро + ещё столько же за ядро.(Эта сумма с размером сети до 500 девайсов)
 	Pluses: Есть вариант крякнуть.
-	Minuses:
-	State: haven't watched yet
-	Review:
+	Minuses: Дорого, крякнутая версия будет не новая. Рано или поздно потребуется поддержка от вендора.
+	Review:	Нужно больше золота.
 
 Link:	http://www.opennms.com/commercial-licensing/
-  State: haven't watched yet
+  	State: haven't watched yet
 
 
 
@@ -65,3 +69,14 @@ Need to watch next:
 	Enigma NMS Network Management Software
 
 Compare Network Management Software:	http://network-management.findthebest.com/
+
+	Важное замечание о бесплатном ПО:
+	http://www.forbes.com/sites/rajsabhlok/2013/07/18/open-source-software-the-hidden-cost-of-free/
+		
+			Бесплатные решения, как правило, как-то монетизируются. Встроенной рекламой, поддержкой, курсами по обучению работе с софтом. Солидные решения имеют серию курсов и сертификаций.
+		Чем обширнее решение, тем сложнее настройка. Частенько нужно ручками скачивать новые скрипты с сайта вендора, допиливать, и заливать на сервер. 
+		Решения, которые пользователи(Компании, Провайдеры, другие telco. company) создают сами, при самых идеальных обстоятельствах(пряморукая команда программистов, наличие опытного архитектора в команде, грамотных тех заданий) спустя несколько лет превращаются в подобие ZenOSS, NOC Project итд. При этом, конечный штат компании разрастается до одного или более программиста на постоянной основе(для допиливания) и одного или более инженера по внедрению, поддержке, мониторингу, конфигурированию.
+		В платных решениях эти задачи частично отдаются разработчику и поддержке вендора.
+
+
+
