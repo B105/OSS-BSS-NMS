@@ -12,15 +12,15 @@ Link:	http://www.logicmonitor.com/tour/
 	Price: http://www.logicmonitor.com/pricing/ 
 	Pluses: Cross-platform collector(Java). Варианты поддержки 24/7. SaaS - за поддержку работоспособности отвечают сами.
 	Minuses: SaaS тип с установкой одного или нескольких коллекторов внутри нашей сети.
-	State: Жду их презентации, обещали в течении суток. Договорились на понедельник.
+	State: Жду их презентации. Договорились на понедельник. 
 	Review:	Хотят от 4$ до 19$ за девайс в месяц. Функционал отличный но нужно больше золота.
 
 Link:	http://pandorafms.com/Community/screenshots/en
 	Info:	http://network-management.findthebest.com/l/106/Pandora-FMS
 	Pluses: Платная поддержка
 	Minuses: Хотят денег за поддержку
-	State:	Запросил цены, жду ответа.
-	Review:	
+	State:	Запросил цены, жду ответа. Вместо ответа, после переписки, выслали триальную версию на 30 дней. 
+
 
 Link:	http://www.manageengine.com/products/device-expert/features.html
 	Info:	
@@ -32,22 +32,16 @@ Link:	http://www.manageengine.com/products/device-expert/features.html
 			ManageEngine Device Expert 
 		86015.4N2 	Single Installation License fee for 5000 Devices Pack 	5.5 	USD 20995
 		86015.4M2 	Annual Maintenance and Support fee for 5000 Devices Pack 	5.5 	USD 4199
-	Review:
+
 	
 Link:	http://www.zenoss.com/solution/awareness
 	Info:
 	Price: После долгой переписки с Sales Department выяснилось что продать корпоративную версию в Россию они могут только если компания является Cisco Partner'ом. В противном случае они предлагают пользоваться Community релизом. Плюсы в платном Enterprise решении в том, что они предлагают в поддержку сертифицированных специалистов по внедрению и поддержке.
-	Pluses: Бесплатно: AsIs - трахаемся сами.
+	Pluses: Бесплатно: As Is - трахаемся сами, Open Source, Python, On Premise / Client Server,
 	Minuses: За один присест мне не удалось даже понять как добавить Cisco'вскую MIB.
   	State: Обзор завершён.
 	Review: Решение комплексное, новороченное, сложное. Но присутствует документация и курсы по работе с программой. 
 
-Link:	http://netsas.com.au/home/
-	Info:	Demo:	http://netsas.com.au/screenshots/
-	Pluses:
-	Minuses:
-	State: haven't watched yet
-	Review:
 
 Link:	http://www.whatsupgold.com/
 	Info:	
@@ -57,26 +51,40 @@ Link:	http://www.whatsupgold.com/
 	Minuses: Дорого, крякнутая версия будет не новая. Рано или поздно потребуется поддержка от вендора.
 	Review:	Нужно больше золота.
 
+Link:		
+	Info:	Demo:	https://demo.op5.com/monitor/index.php/default/show_login
+	Prices:	Free. За свой секс платим из своего кормана. Но есть вариант с поддержкой и SaaS, запросил цены - жду. Предлагают обучение по работе с продуктом, как удалённое так и выездное.
+	Pluses: http://www.it-slav.net/blogs/2010/09/22/top-10-nagios-problems-solved-by-op5/
+	Minuses: Inventory нету.
+	Review:	
+
+Link:	http://netsas.com.au/home/
+	Info:	Demo:	http://netsas.com.au/screenshots/
+	Pluses:
+	Minuses:
+	State: haven't watched yet
+	Review:
+
 Link:	http://www.opennms.com/commercial-licensing/
   	State: haven't watched yet
 
 
-
 Need to watch next:
+	itilium.ru
 	GroundWork
 	Hyperic
-	Nagios(мониторинг - нужно узнать умеет ли он Inventory, какой API? От результатов зависит рассматривать ли его как часть модульного решения)
 	Enigma NMS Network Management Software
+	Nagios(мониторинг - нужно узнать умеет ли он Inventory, какой API? От результатов зависит рассматривать ли его как часть модульного решения). Позже выяснилось что всё умеет, очень модульный. Есть op5, который построен на основе допиленного Nagios.
+	AdvantNet, 
+	HP OpenView Service Desk
+
+
 
 Compare Network Management Software:	http://network-management.findthebest.com/
-
-	Важное замечание о бесплатном ПО:
-	http://www.forbes.com/sites/rajsabhlok/2013/07/18/open-source-software-the-hidden-cost-of-free/
+										http://alternativeto.net/
 		
-			Бесплатные решения, как правило, как-то монетизируются. Встроенной рекламой, поддержкой, курсами по обучению работе с софтом. Солидные решения имеют серию курсов и сертификаций.
-		Чем обширнее решение, тем сложнее настройка. Частенько нужно ручками скачивать новые скрипты с сайта вендора, допиливать, и заливать на сервер. 
-		Решения, которые пользователи(Компании, Провайдеры, другие telco. company) создают сами, при самых идеальных обстоятельствах(пряморукая команда программистов, наличие опытного архитектора в команде, грамотных тех заданий) спустя несколько лет превращаются в подобие ZenOSS, NOC Project итд. При этом, конечный штат компании разрастается до одного или более программиста на постоянной основе(для допиливания) и одного или более инженера по внедрению, поддержке, мониторингу, конфигурированию.
-		В платных решениях эти задачи частично отдаются разработчику и поддержке вендора.
-
-
-
+	Бесплатные решения, как правило, как-то монетизируются. Встроенной рекламой, поддержкой, курсами по обучению работе с софтом. Солидные решения имеют серию курсов и сертификаций.
+Чем обширнее решение, тем сложнее настройка.
+Решения, которые пользователи(Компании, Провайдеры, другие telco. company) создают сами, при самых идеальных обстоятельствах(пряморукая команда программистов, наличие опытного архитектора в команде, грамотных тех заданий) спустя несколько лет превращаются в подобие ZenOSS, NOC Project, Op5 итд. При этом, конечный штат компании разрастается до двух или более программиста на постоянной основе(для допиливания) и одного или более инженера по внедрению, поддержке, мониторингу, конфигурированию.
+В платных решениях эти задачи частично отдаются разработчику и поддержке вендора.
+	Open Source решения построены по принципу модульности. Если не устраевает Inventory, начинают использовать внешний, который нравится. Но в результате нужны специалисты по разным решениям. 
